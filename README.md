@@ -44,5 +44,5 @@ To deploy this project run
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
-This was my first time creating a game using Python. I am using this exercise to keep my Python progamming skills fresh, learn new concepts, as well as honing my debugging skills. 
+This was my first time creating a game using Python. I am using this exercise to keep my Python progamming skills fresh, learn new concepts, read documentation, as well as honing my debugging skills. I am using Visual Studio Code for the first time with project.
 
