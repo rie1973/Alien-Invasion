@@ -46,3 +46,5 @@ What did you learn while building this project? What challenges did you face and
 
 This was my first time creating a game using Python. I am using this exercise to keep my Python progamming skills fresh, learn new concepts, read documentation, as well as honing my debugging skills. I am using Visual Studio Code for the first time with project.
 
+I know, I know...another "school" project. Practice makes (nearly) perfect. The more I do, the better I get at it. So here we are!
+
