@@ -42,9 +42,11 @@ To deploy this project run
 
 ## Lessons Learned
 
+I know, I know...another "school" project. Practice makes (nearly) perfect. The more I do it, the better I get at it. So here we are!
+
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
-This was my first time creating a game using Python. I am using this exercise to keep my Python progamming skills fresh, learn new concepts, read documentation, as well as honing my debugging skills. I am using Visual Studio Code for the first time with project.
+This was my first time creating a game using Python. I am using this exercise to keep my Python progamming skills fresh, learn new concepts and technologies (VS Code), reading documentation, as well as honing my debugging skills. I am using Visual Studio Code for the first time with project. 
 
-I know, I know...another "school" project. Practice makes (nearly) perfect. The more I do, the better I get at it. So here we are!
+
 
