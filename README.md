@@ -20,7 +20,7 @@ Anyone who watches the play the game can use this application.
 
 
 ## 🚀 About Me
-I'm a full stack developer with knowledge of JAVA, HTML5/CSS, Python, C Programming. 
+I'm a software developer with knowledge of JAVA, HTML5/CSS, Python, and C Programming. 
 ## Deployment
 
 To deploy this project run
