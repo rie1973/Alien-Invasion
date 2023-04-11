@@ -5,7 +5,7 @@ This is an exercise from the book "Python Crash Course", 2nd Edition
 A Hands-On, Project-Based Introduction to Programming
 by Eric Matthes
 
-Anyone who watches the play the game can use this application. 
+Anyone who wishes the play the game can use this application. 
 
 ## Acknowledgements
 
